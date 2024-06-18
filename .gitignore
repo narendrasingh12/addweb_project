@@ -1,3 +1,1 @@
-#this ignore file in github
-#-----------------------------
-*.ruby
+*.error
